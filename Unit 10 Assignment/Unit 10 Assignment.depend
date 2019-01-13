@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1543183097 source:c:\larry\programming\ics4u\unit 10 assignment\main.cpp
+	<fstream>
+	<iostream>
+	<stack>
+	<string>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+	"Node.h"
+
+1543252768 source:c:\larry\programming\ics4u\unit 10 assignment\include\node.h
+	<string>
+
+1543252766 source:c:\larry\programming\ics4u\unit 10 assignment\src\node.cpp
+	"Node.h"
+	<sstream>
+
+1543252768 c:\larry\programming\ics4u\unit 10 assignment\include\node.h
+	<string>
+
+1543415477 source:h:\profile\desktop\computer science\c++ projects\unit 10\unit 10 assignment\include\node.h
+	<string>
+
+1543606177 source:h:\profile\desktop\computer science\c++ projects\unit 10\unit 10 assignment\main.cpp
+	<fstream>
+	<iostream>
+	<stack>
+	<queue>
+	<map>
+	<string>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+	"Node.h"
+
+1543415477 h:\profile\desktop\computer science\c++ projects\unit 10\unit 10 assignment\include\node.h
+	<string>
+
+1543415477 source:h:\profile\desktop\computer science\c++ projects\unit 10\unit 10 assignment\src\node.cpp
+	"Node.h"
+	<sstream>
+

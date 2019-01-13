@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1543606964 source:h:\profile\desktop\computer science\c++ projects\unit 10\unit 10 mazegen tool\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<time.h>
+
